@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDSLatam.Service.MiApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30cc029ec852c9300bfe81a07c8b4337ca90ac87")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDSLatam.Service.MiApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDSLatam.Service.MiApi.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

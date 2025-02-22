@@ -22,3 +22,16 @@ C:\Users\espin\Documents\PROYECTOS\test\Common\IDSLatam.Common.Core\obj\Debug\ne
 C:\Users\espin\Documents\PROYECTOS\test\Common\IDSLatam.Common.Core\obj\Debug\net8.0\refint\IDSLatam.Common.Core.dll
 C:\Users\espin\Documents\PROYECTOS\test\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.pdb
 C:\Users\espin\Documents\PROYECTOS\test\Common\IDSLatam.Common.Core\obj\Debug\net8.0\ref\IDSLatam.Common.Core.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\bin\Debug\net8.0\IDSLatam.Common.Core.deps.json
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\bin\Debug\net8.0\IDSLatam.Common.Core.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\bin\Debug\net8.0\IDSLatam.Common.Core.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.csproj.AssemblyReference.cache
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.AssemblyInfoInputs.cache
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.AssemblyInfo.cs
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.csproj.CoreCompileInputs.cache
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.sourcelink.json
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\refint\IDSLatam.Common.Core.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\IDSLatam.Common.Core.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\Common\IDSLatam.Common.Core\obj\Debug\net8.0\ref\IDSLatam.Common.Core.dll

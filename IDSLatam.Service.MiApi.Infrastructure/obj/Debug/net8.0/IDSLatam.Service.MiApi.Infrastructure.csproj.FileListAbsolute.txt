@@ -45,3 +45,27 @@ C:\Users\espin\Documents\PROYECTOS\test\IDSLatam.Service.MiApi.Infrastructure\ob
 C:\Users\espin\Documents\PROYECTOS\test\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.pdb
 C:\Users\espin\Documents\PROYECTOS\test\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.genruntimeconfig.cache
 C:\Users\espin\Documents\PROYECTOS\test\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\ref\IDSLatam.Service.MiApi.Infrastructure.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.deps.json
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.runtimeconfig.json
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Common.Application.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Common.Core.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Application.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Core.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Common.Application.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Core.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Service.MiApi.Application.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\bin\Debug\net8.0\IDSLatam.Common.Core.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.AssemblyInfo.cs
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.sourcelink.json
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.F7372DE9.Up2Date
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\refint\IDSLatam.Service.MiApi.Infrastructure.dll
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.pdb
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\IDSLatam.Service.MiApi.Infrastructure.genruntimeconfig.cache
+C:\Users\espin\Documents\PROYECTOS\skeleton microservicio\IDSLatam.Service.MiApi.Infrastructure\obj\Debug\net8.0\ref\IDSLatam.Service.MiApi.Infrastructure.dll
