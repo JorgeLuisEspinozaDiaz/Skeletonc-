@@ -1,0 +1,60 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSLatam.Service.MiApi.Api", "IDSLatam.Service.MiApi.Api\IDSLatam.Service.MiApi.Api.csproj", "{748445AB-8EA9-1072-5785-2765D1E76627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSLatam.Service.MiApi.Application", "IDSLatam.Service.MiApi.Application\IDSLatam.Service.MiApi.Application.csproj", "{F5451404-5701-4637-8739-9BD21FB8E6B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSLatam.Service.MiApi.Infrastructure", "IDSLatam.Service.MiApi.Infrastructure\IDSLatam.Service.MiApi.Infrastructure.csproj", "{26960ED9-B6E0-4FBB-9362-C466B69B774A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSLatam.Service.MiApi.Core", "IDSLatam.Service.MiApi.Core\IDSLatam.Service.MiApi.Core.csproj", "{6A589628-FC99-44F4-8093-4C7CC7944969}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{F9792C65-DC2C-4764-9799-BD148A344C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSLatam.Common.Application", "Common\IDSLatam.Common.Application\IDSLatam.Common.Application.csproj", "{C5340C78-2FAF-40B7-B4DD-CB26513B70F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDSLatam.Common.Core", "Common\IDSLatam.Common.Core\IDSLatam.Common.Core.csproj", "{A565726F-6DCA-48EC-ADE6-FE50667252BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748445AB-8EA9-1072-5785-2765D1E76627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748445AB-8EA9-1072-5785-2765D1E76627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748445AB-8EA9-1072-5785-2765D1E76627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748445AB-8EA9-1072-5785-2765D1E76627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5451404-5701-4637-8739-9BD21FB8E6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5451404-5701-4637-8739-9BD21FB8E6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5451404-5701-4637-8739-9BD21FB8E6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5451404-5701-4637-8739-9BD21FB8E6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26960ED9-B6E0-4FBB-9362-C466B69B774A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26960ED9-B6E0-4FBB-9362-C466B69B774A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26960ED9-B6E0-4FBB-9362-C466B69B774A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26960ED9-B6E0-4FBB-9362-C466B69B774A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A589628-FC99-44F4-8093-4C7CC7944969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A589628-FC99-44F4-8093-4C7CC7944969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A589628-FC99-44F4-8093-4C7CC7944969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A589628-FC99-44F4-8093-4C7CC7944969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5340C78-2FAF-40B7-B4DD-CB26513B70F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5340C78-2FAF-40B7-B4DD-CB26513B70F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5340C78-2FAF-40B7-B4DD-CB26513B70F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5340C78-2FAF-40B7-B4DD-CB26513B70F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A565726F-6DCA-48EC-ADE6-FE50667252BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A565726F-6DCA-48EC-ADE6-FE50667252BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A565726F-6DCA-48EC-ADE6-FE50667252BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A565726F-6DCA-48EC-ADE6-FE50667252BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23534782-4EEF-4437-A156-03515AB7B987}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C5340C78-2FAF-40B7-B4DD-CB26513B70F7} = {F9792C65-DC2C-4764-9799-BD148A344C40}
+		{A565726F-6DCA-48EC-ADE6-FE50667252BE} = {F9792C65-DC2C-4764-9799-BD148A344C40}
+	EndGlobalSection
+EndGlobal

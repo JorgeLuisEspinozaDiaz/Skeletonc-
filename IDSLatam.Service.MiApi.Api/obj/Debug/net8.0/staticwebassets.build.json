@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aRxHgMO4wcQddkAXaGEzgnOYXCBp3R3McfLnT7O/E5M=",
+  "Source": "IDSLatam.Service.MiApi.Api",
+  "BasePath": "_content/IDSLatam.Service.MiApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

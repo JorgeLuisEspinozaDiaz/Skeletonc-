@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.4">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Configuration\" />
+    <None Remove="MigrationScripts\" />
+    <None Remove="Migrations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Configuration\" />
+    <Folder Include="MigrationScripts\" />
+    <Folder Include="Migrations\" />
+  </ItemGroup> 
+ <ItemGroup>
+    <ProjectReference Include="..\Common\IDSLatam.Common.Application\IDSLatam.Common.Application.csproj" />
+    <ProjectReference Include="..\IDSLatam.Service.MiApi.Core\IDSLatam.Service.MiApi.Core.csproj" />
+    <ProjectReference Include="..\IDSLatam.Service.MiApi.Application\IDSLatam.Service.MiApi.Application.csproj" />
+   </ItemGroup>
+
+</Project>

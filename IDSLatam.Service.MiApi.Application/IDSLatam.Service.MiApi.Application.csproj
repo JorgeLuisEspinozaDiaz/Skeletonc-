@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.5.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.0" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+<ItemGroup>
+    <None Remove="Behaviours\" />
+    <None Remove="Commands\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Middlewares\" />
+    <None Remove="Queries\" />
+    <None Remove="Repositories\" />
+    <None Remove="Proxies\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Behaviours\" />
+    <Folder Include="Commands\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Middlewares\" />
+    <Folder Include="Queries\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Proxies\" />
+  </ItemGroup>
+
+ <ItemGroup>
+    <ProjectReference Include="..\..\Common/IDSLatam.Common.Application\IDSLatam.Common.Application.csproj" />
+    <ProjectReference Include="..\IDSLatam.Service.MiApi.Core\IDSLatam.Service.MiApi.Core.csproj" />
+  </ItemGroup>
+</Project>
